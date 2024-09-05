@@ -115,17 +115,21 @@ graph LR
 ### **About Kava and Nikola Labs**
 
 ### **Kava**
-Kava is an electronic R&D research firm associated with the University of Windsor, specializing in developing PCB boards for electric two-wheeler platforms. Recognizing a gap in STEM education, Kava developed the new DIY S.T.E.M Programming Learning Board to provide students with critical STEM lessons.
+Kava, an electronic R&D researcher collaborating with the University of Windsor, specializes in developing PCB boards for electric two-wheeler platforms. Noticing a gap in STEM education, Kava developed the new DIY S.T.E.M Programming Learning Board to provide students with critical STEM lessons and hands-on experience.
+
+In their lectures to university and college students, Kava has observed that the current curriculum often lacks modern tools and skills. To address this, Kava is working with the University of Windsor on an undergraduate STEM board design that offers practical, hands-on learning. Recognizing the potential to reach a wider audience, Kava aims to scale this initiative into an online remote platform capable of serving thousands of students each semester and fostering a vibrant community around the board.
 
 ### **Nikola Labs**
 
 **Nikola Labs' Highlights:**
 
-- **📊 4+ years** in remote project management for solar projects across Western Canada.
+- **📊 4+ years** Univeristy R&D Lead Researcher focusing on Machine Learning with Hardware
 - **💻 10+ years** of advanced PCB design, MEMS sensor consulting.
 - **🔬 In-house R&D** through Nikola Labs' electrical engineering facility.
-- **🤝 Collaboration** with University of Windsor, Gates Corp, and APMA.
+- **🤝 Collaboration** with University of Windsor, Gates Corp, and Automotice Parts Manufacturer Association 
 - **🔌 IoT & Embedded Systems expertise.**
 
 ### **Nikola Labs’ Mission**
 Nikola Labs is dedicated to advancing STEM education and supporting innovation through practical, hands-on learning tools. Our collaboration with educational institutions and industry leaders enables us to create cutting-edge solutions like the DIY S.T.E.M Programming Learning Board, designed to inspire the next generation of engineers and innovators.
+
+
