@@ -69,11 +69,13 @@ This 12-week course introduces high school students to Python programming and ST
 
 ### **Overview**
 
-\[
-\text{{DIY S.T.E.M Programming Learning Board}} \rightarrow \text{{A versatile tool for STEM electronics and IoT projects.}}
-\]
+**DIY S.T.E.M Programming Learning Board** &rarr; A versatile tool for STEM electronics and IoT projects.
 
-![STEM Board Diagram](https://www.example.com/stem-board-diagram)
+
+![Voice Activated Light Bulb](https://ai.thestempedia.com/wp-content/uploads/2023/05/Voice-Activated-Light-Bulb.jpg)
+
+*Voice Activated Light Bulb*
+
 
 **Board Features:**
 - **Processor**: ESP32-C3FH4 with WiFi/Bluetooth® 5
@@ -82,6 +84,22 @@ This 12-week course introduces high school students to Python programming and ST
 
 ### **Course Integration**
 This course uses the DIY S.T.E.M Programming Learning Board to teach practical electronics and IoT concepts, culminating in a final project where students create their own IoT solution.
+
+### Basic Arithmetic to Advanced Mathematical Concepts with Practical Lessons
+
+
+$$
+f(x) = x^2
+$$
+
+$$
+g(x) = \frac{1}{x}
+$$
+
+$$
+F(x) = \int_a^b \frac{1}{3}x^3 \, dx
+$$
+
 
 ### **Diagram of Connectivity:**
 
