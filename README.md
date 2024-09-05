@@ -133,3 +133,18 @@ In their lectures to university and college students, Kava has observed that the
 Nikola Labs is dedicated to advancing STEM education and supporting innovation through practical, hands-on learning tools. Our collaboration with educational institutions and industry leaders enables us to create cutting-edge solutions like the DIY S.T.E.M Programming Learning Board, designed to inspire the next generation of engineers and innovators.
 
 
+
+## Seeking Education Partners
+
+We are **seeking education partners** interested in incorporating the Nikola STEM Board into their programs. For long-term partners with commitments of **over 1,000 units**, we offer a **customized board** and **tailored lesson plans**. This is a **great opportunity** to enhance your STEM curriculum with **hands-on, practical tools**.
+
+If your institution is interested, please **contact us** to discuss how we can collaborate to bring innovative STEM education to your students:
+
+**Email:** [STEM@niko.la](mailto:STEM@niko.la)
+
+
+
+---
+
+*World's first board fully designed, manufactured, and assembled in South India 🇮🇳🤝🇨🇦*
+
