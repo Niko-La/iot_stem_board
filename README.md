@@ -118,7 +118,7 @@ graph LR
 ## **About Kava and Nikola Labs**
 
 ### **Kava**
-Kava, an electronic R&D researcher collaborating with the University of Windsor, specializes in developing PCB boards for electric two-wheeler platforms. Kava is the lead designer of a 2-wheeler electric automotive platform designed for smart cities as a heavy-duty work bike for commercial applications. 
+Kava, an electronic hardware R&D researcher collaborating with the University of Windsor, specializes in developing PCB boards for electric two-wheeler platforms. Kava is the lead designer of a 2-wheeler electric automotive platform designed for smart cities as a heavy-duty work bike for commercial applications. 
 
 Kava designed the:
 - Advanced embedded electronics
@@ -137,6 +137,7 @@ While working closely with the university, professors, and students, Kava notice
 - **📊 4+ years** University R&D Lead Researcher focusing on Machine Learning with Hardware
 - **💻 10+ years** of advanced PCB design, MEMS sensor consulting.
 - **🔬 In-house R&D** through Nikola Labs' electrical engineering facility.
+- **📈 Business automation** consultant for process improvements, cost reduction, revenue growth, and human resource optimization through software dev.
 - **🤝 Collaboration** with University of Windsor, Gates Corp, and Automotive Parts Manufacturer Association 
 - **🔌 IoT & Embedded Systems expertise.**
 
