@@ -1,4 +1,4 @@
-# **STEM Electronics & Python Programming Board & Curriculum**
+# **STEM Python Electronics Programming Board & Curriculum**
 
 ![DIY S.T.E.M Programming Learning Board](https://public-files.gumroad.com/c9ysyrr9xnc2bhim7nnsba7epb9b)  
 *Figure 1: DIY S.T.E.M Programming Learning Board by mr.niko.la*
